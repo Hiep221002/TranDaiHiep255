@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TranDaiHiep255.props" />
+</Project>
