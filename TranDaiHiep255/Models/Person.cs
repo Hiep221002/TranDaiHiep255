@@ -10,7 +10,7 @@ public class Person
     public string PersonID { get; set; }
     [Display (Name = "Mã căn cước công dân")]
     public int cccd { get; set;}
-    [Display (Name = "Họ và Tên")]
+    [Display (Name = "Họ và Tên công dân")]
 
     public string HoTen { get; set; }
 }

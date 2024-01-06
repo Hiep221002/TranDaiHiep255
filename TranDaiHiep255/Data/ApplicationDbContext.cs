@@ -15,5 +15,6 @@ namespace Trandaihiep255.Data
         }
 
         public DbSet<TranDaiHiep255.Models.Person> Person { get; set; } = default!;
+        public DbSet<TranDaiHiep255.Models.SinhVien> SinhVien { get; set; } = default!;
     }
 }
